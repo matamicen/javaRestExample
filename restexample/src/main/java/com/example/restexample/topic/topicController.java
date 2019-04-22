@@ -14,8 +14,8 @@ public class topicController {
 	public List<Topic> getallTopics(){
 		
 		return Arrays.asList(
-				new Topic("1", "topic1", "desc11"),
-				new Topic("2", "topic2", "desc22"));
+				new Topic("1", "topic1", "desc111"),
+				new Topic("2", "topic2", "desc222"));
 		
 	}
 
