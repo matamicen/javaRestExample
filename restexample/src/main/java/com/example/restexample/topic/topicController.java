@@ -20,7 +20,7 @@ public class topicController {
 		
 		return Arrays.asList(
 				new Topic("1", "topic1", "desc100"),
-				new Topic("2", "topic2", "desc200"));
+				new Topic("2", "topic4", "desc400"));
 		
 	}
 	
